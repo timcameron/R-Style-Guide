@@ -1,7 +1,3 @@
----
-title: Style guide
-layout: default
----
 
 ![Style Guide Header](http://i.imgur.com/8iTYXwy.png)
 
