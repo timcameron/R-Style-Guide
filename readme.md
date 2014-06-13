@@ -1,5 +1,5 @@
 
-![Style Guide Header](http://i.imgur.com/8iTYXwy.png)
+![Style Guide Header](http://i.imgur.com/1Tq3GlK.png)
 
 Adapted from Hadley Whickam's '[Advanced R](http://adv-r.had.co.nz/Style.html)' and [this](http://stackoverflow.com/questions/1429907/workflow-for-statistical-analysis-and-report-writing/) Stack Overflow question
 
